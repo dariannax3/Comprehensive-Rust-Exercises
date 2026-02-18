@@ -1,0 +1,1 @@
+/Users/dariakumanek/Desktop/workspace/projects/Rust_learning/Comprehensive-Rust-Exercises/fibonacci/target/debug/fibonacci: /Users/dariakumanek/Desktop/workspace/projects/Rust_learning/Comprehensive-Rust-Exercises/fibonacci/src/main.rs
