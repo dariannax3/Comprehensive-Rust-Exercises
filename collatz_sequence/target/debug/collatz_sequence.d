@@ -1,0 +1,1 @@
+/Users/dariakumanek/Desktop/workspace/projects/Rust_learning/Comprehensive-Rust-Exercises/collatz_sequence/target/debug/collatz_sequence: /Users/dariakumanek/Desktop/workspace/projects/Rust_learning/Comprehensive-Rust-Exercises/collatz_sequence/src/main.rs
