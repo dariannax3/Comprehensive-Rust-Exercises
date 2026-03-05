@@ -1,0 +1,1 @@
+/Users/dariakumanek/Desktop/workspace/projects/Rust_learning/Comprehensive-Rust-Exercises/nested_arrays/target/debug/nested_arrays: /Users/dariakumanek/Desktop/workspace/projects/Rust_learning/Comprehensive-Rust-Exercises/nested_arrays/src/main.rs
