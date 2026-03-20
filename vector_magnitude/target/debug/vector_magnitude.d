@@ -1,0 +1,1 @@
+/Users/dariakumanek/Desktop/workspace/projects/Rust_learning/Comprehensive-Rust-Exercises/vector_magnitude/target/debug/vector_magnitude: /Users/dariakumanek/Desktop/workspace/projects/Rust_learning/Comprehensive-Rust-Exercises/vector_magnitude/src/main.rs
